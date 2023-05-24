@@ -237,14 +237,14 @@ self.__RSC_MANIFEST={
   },
   "__edge_ssr_module_mapping__": {},
   "__entry_css_files__": {
-    "/home/mahir/Downloads/startup-nextjs-main/app/layout": [
+    "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/app/layout": [
       "static/css/app/layout.css"
     ],
-    "/home/mahir/Downloads/startup-nextjs-main/app/page": [
+    "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/app/page": [
       "static/css/_app-client_node_modules_next_font_google_target_css_path_app_page_tsx_import_Inter_arguments-2f8da4.css"
     ]
   },
-  "/home/mahir/Downloads/startup-nextjs-main/components/Common/ScrollUp.tsx": {
+  "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/components/Common/ScrollUp.tsx": {
     "": {
       "id": "(app-client)/./components/Common/ScrollUp.tsx",
       "name": "",
@@ -270,7 +270,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/mahir/Downloads/startup-nextjs-main/components/Video/index.tsx": {
+  "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/components/Video/index.tsx": {
     "": {
       "id": "(app-client)/./components/Video/index.tsx",
       "name": "",
@@ -296,7 +296,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/mahir/Downloads/startup-nextjs-main/node_modules/next/dist/client/image.js": {
+  "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/node_modules/next/dist/client/image.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
@@ -322,7 +322,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/mahir/Downloads/startup-nextjs-main/node_modules/next/dist/esm/client/image.js": {
+  "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/node_modules/next/dist/esm/client/image.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
@@ -348,7 +348,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/mahir/Downloads/startup-nextjs-main/node_modules/next/dist/client/link.js": {
+  "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/node_modules/next/dist/client/link.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
@@ -374,7 +374,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/mahir/Downloads/startup-nextjs-main/node_modules/next/dist/esm/client/link.js": {
+  "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/node_modules/next/dist/esm/client/link.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
@@ -400,7 +400,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/mahir/Downloads/startup-nextjs-main/node_modules/react-modal-video/css/modal-video.css": {
+  "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/node_modules/react-modal-video/css/modal-video.css": {
     "default": {
       "id": "null",
       "name": "default",
@@ -409,7 +409,7 @@ self.__RSC_MANIFEST={
       ]
     }
   },
-  "/home/mahir/Downloads/startup-nextjs-main/styles/index.css": {
+  "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/styles/index.css": {
     "default": {
       "id": "null",
       "name": "default",
@@ -418,7 +418,7 @@ self.__RSC_MANIFEST={
       ]
     }
   },
-  "/home/mahir/Downloads/startup-nextjs-main/app/layout.tsx": {
+  "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/app/layout.tsx": {
     "": {
       "id": "(app-client)/./app/layout.tsx",
       "name": "",
@@ -444,7 +444,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/mahir/Downloads/startup-nextjs-main/node_modules/next/dist/client/components/app-router.js": {
+  "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/node_modules/next/dist/client/components/app-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
@@ -470,7 +470,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/mahir/Downloads/startup-nextjs-main/node_modules/next/dist/esm/client/components/app-router.js": {
+  "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/node_modules/next/dist/esm/client/components/app-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
@@ -496,7 +496,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/mahir/Downloads/startup-nextjs-main/node_modules/next/dist/client/components/error-boundary.js": {
+  "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/node_modules/next/dist/client/components/error-boundary.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
@@ -522,7 +522,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/mahir/Downloads/startup-nextjs-main/node_modules/next/dist/esm/client/components/error-boundary.js": {
+  "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/node_modules/next/dist/esm/client/components/error-boundary.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
@@ -548,7 +548,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/mahir/Downloads/startup-nextjs-main/node_modules/next/dist/client/components/layout-router.js": {
+  "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/node_modules/next/dist/client/components/layout-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
@@ -574,7 +574,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/mahir/Downloads/startup-nextjs-main/node_modules/next/dist/esm/client/components/layout-router.js": {
+  "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/node_modules/next/dist/esm/client/components/layout-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
@@ -600,7 +600,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/mahir/Downloads/startup-nextjs-main/node_modules/next/dist/client/components/render-from-template-context.js": {
+  "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/node_modules/next/dist/client/components/render-from-template-context.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
@@ -626,7 +626,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/mahir/Downloads/startup-nextjs-main/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+  "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
@@ -652,7 +652,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "/home/mahir/Downloads/startup-nextjs-main/node_modules/@next/font/google/target.css?{\"path\":\"app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
+  "/home/mahir/Documents/GitHub/BlueDesignStudio-RecatJS/node_modules/@next/font/google/target.css?{\"path\":\"app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
     "default": {
       "id": "null",
       "name": "default",
