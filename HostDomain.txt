@@ -1,0 +1,11 @@
+How to Start the Domain Hosting?
+
+Delete previous tunnels form Their Website: https://packetriot.com/
+
+1. Execute Comand: pktriot configure
+   Email: bluedesignstudiopktriot@gmail.com
+   Password: BlueDesignStudiopktriot@2023
+   Enter: 4 and press enter
+2. Execute Comand: pktriot tunnel http add --domain reverent-fire-93238.pktriot.net --destination localhost --http 3000 --letsencrypt
+3. Execute Comand: pktriot tunnel http add --domain bluedesignstudio.reekhav.com --destination localhost --http 3000 --letsencrypt
+4. Execute Comand: pktriot start
