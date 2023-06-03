@@ -1,6 +1,6 @@
-import { Work } from "@/types/feature";
+import { Work } from "@/types/work";
 
-const WorkData: workdata[] = [
+const WorkData: Work[] = [
   {
     id: 1,
     icon: (

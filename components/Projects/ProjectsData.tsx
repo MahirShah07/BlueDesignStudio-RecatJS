@@ -1,6 +1,6 @@
-import { Projects } from "@/types/blog";
+import { Projects } from "@/types/projects";
 
-const ProjectsData: projectsdata[] = [
+const ProjectsData: Projects[] = [
   {
     id: 1,
     title: "Residential Interior Design",

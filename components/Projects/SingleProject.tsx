@@ -1,8 +1,8 @@
-import { Projects } from "@/types/blog";
+import { Projects } from "@/types/projects";
 import Image from "next/image";
 import Link from "next/link";
 
-const SingleProject = ({ blog }: { blog: Blog }) => {
+const SingleProject = ({ blog }: { blog: Projects }) => {
   const { title, image, paragraph, author, tags, publishDate } = blog;
   return (
     <>
